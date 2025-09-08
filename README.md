@@ -2,4 +2,4 @@
 <p>Gab kiršu vorpe, miz dem de›m</p>
 
 <h2>My honest reaction to that information:</h2>
-<img>
+<img src="dawk.png", alt="What a lovely dog!">
